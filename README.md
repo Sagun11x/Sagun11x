@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sahun Poudel (Sagun11x)
+- 👋 Hi, I’m @Sagun Poudel (Sagun11x)
 - 👀 I’m interested in New Tech.
 - 🌱 I’m currently studying Information Technology.
 - 📫 How to reach me
