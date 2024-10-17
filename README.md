@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahun Poudel (Sagun11x)
 - 👀 I’m interested in New Tech.
-- 🌱 I’m currently learning Cloud Platform.
+- 🌱 I’m currently studying Information Technology.
 - 📫 How to reach me
 - linkedin : https://www.linkedin.com/in/sagun-poudel-708aa1320/
 - twitter : @Sagun11x
