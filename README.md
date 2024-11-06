@@ -2,6 +2,7 @@
 - 👀 I’m interested in New Tech.
 - 🌱 I’m currently studying Information Technology.
 - 📫 How to reach me
+- website : sagunpoudel.tech
 - linkedin : https://www.linkedin.com/in/sagun-poudel-708aa1320/
 - twitter : @Sagun11x
 - e-mail : sagun11x@gmail.com
