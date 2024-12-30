@@ -5,7 +5,7 @@
 - website : www.sagunpoudel.tech
 - linkedin : https://www.linkedin.com/in/sagun-poudel-708aa1320/
 - twitter : @Sagun11x
-- e-mail : sagun11x@gmail.com
+- e-mail : sagunpdl11@gmail.com/sagun11x@gmail.com
 
 
 <!---
